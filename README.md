@@ -13,7 +13,9 @@ Use at your own risk.
 
 ## Note for Arch linux users
 First install update-grub from AUR: https://aur.archlinux.org/packages/update-grub
+
 Then create a symlink:
+
 `sudo ln -s /usr/bin/update-grub /usr/sbin/update-grub`
 
 ### Note for Fedora/RHEL users
