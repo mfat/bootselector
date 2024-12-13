@@ -1,6 +1,6 @@
 # BootSelector
 
-##for Debian-based systems##
+## for Debian-based systems ##
 ![image](https://github.com/user-attachments/assets/0fd25d4c-bc91-4036-a903-a17ad969fe1a)
 
 This is a simple graphical utility to set default entry in GRUB.
