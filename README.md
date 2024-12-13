@@ -11,5 +11,10 @@ It has only 2 functions:
 This has been tested on Ubuntu 24.10.
 Use at your own risk.
 
+## Note for Arch linux users
+First install update-grub from AUR: https://aur.archlinux.org/packages/update-grub
+Then create a symlink:
+`sudo ln -s /usr/bin/update-grub /usr/sbin/update-grub`
+
 ### Note for Fedora/RHEL users
 I'm planning to release a separate version for rpm-based systems. however you're welcome to test this and share feedback
